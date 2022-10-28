@@ -1,0 +1,11 @@
+U:\WindowsForms,WPF\Timer\bin\Debug\Timer.exe.config
+U:\WindowsForms,WPF\Timer\bin\Debug\Timer.exe
+U:\WindowsForms,WPF\Timer\bin\Debug\Timer.pdb
+U:\WindowsForms,WPF\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+U:\WindowsForms,WPF\Timer\obj\Debug\Timer.csproj.SuggestedBindingRedirects.cache
+U:\WindowsForms,WPF\Timer\obj\Debug\Timer.Form1.resources
+U:\WindowsForms,WPF\Timer\obj\Debug\Timer.Properties.Resources.resources
+U:\WindowsForms,WPF\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+U:\WindowsForms,WPF\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+U:\WindowsForms,WPF\Timer\obj\Debug\Timer.exe
+U:\WindowsForms,WPF\Timer\obj\Debug\Timer.pdb
