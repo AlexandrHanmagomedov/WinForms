@@ -10,6 +10,10 @@ removebutton
 progressbar
 TrackBar color
 
+Udalenoe zanitie
+добавление в список через вторую форму
+удаление из списка
+
 Udalennoe Zanitie2
 Save,Load txt
 
