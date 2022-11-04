@@ -1,0 +1,12 @@
+F:\C#\Udalenoe zanitie\bin\Debug\Udalenoe zanitie.exe.config
+F:\C#\Udalenoe zanitie\bin\Debug\Udalenoe zanitie.exe
+F:\C#\Udalenoe zanitie\bin\Debug\Udalenoe zanitie.pdb
+F:\C#\Udalenoe zanitie\obj\Debug\Udalenoe zanitie.csproj.AssemblyReference.cache
+F:\C#\Udalenoe zanitie\obj\Debug\Udalenoe zanitie.csproj.SuggestedBindingRedirects.cache
+F:\C#\Udalenoe zanitie\obj\Debug\Udalenoe_zanitie.Form1.resources
+F:\C#\Udalenoe zanitie\obj\Debug\Udalenoe_zanitie.Properties.Resources.resources
+F:\C#\Udalenoe zanitie\obj\Debug\Udalenoe zanitie.csproj.GenerateResource.cache
+F:\C#\Udalenoe zanitie\obj\Debug\Udalenoe zanitie.csproj.CoreCompileInputs.cache
+F:\C#\Udalenoe zanitie\obj\Debug\Udalenoe zanitie.exe
+F:\C#\Udalenoe zanitie\obj\Debug\Udalenoe zanitie.pdb
+F:\C#\Udalenoe zanitie\obj\Debug\Udalenoe_zanitie.Form2.resources
