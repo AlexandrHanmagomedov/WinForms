@@ -9,3 +9,7 @@ addbutton
 removebutton
 progressbar
 TrackBar color
+
+
+Udalennoe zadanie3
+Меню, горячие клавиши 
