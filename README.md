@@ -10,6 +10,8 @@ removebutton
 progressbar
 TrackBar color
 
+Udalennoe Zanitie2
+Save,Load txt
 
 Udalennoe zadanie3
 Меню, горячие клавиши 
