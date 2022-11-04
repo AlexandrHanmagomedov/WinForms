@@ -1,0 +1,11 @@
+F:\C#\Udalennoe zadanie3\bin\Debug\Udalennoe zadanie3.exe.config
+F:\C#\Udalennoe zadanie3\bin\Debug\Udalennoe zadanie3.exe
+F:\C#\Udalennoe zadanie3\bin\Debug\Udalennoe zadanie3.pdb
+F:\C#\Udalennoe zadanie3\obj\Debug\Udalennoe zadanie3.csproj.AssemblyReference.cache
+F:\C#\Udalennoe zadanie3\obj\Debug\Udalennoe zadanie3.csproj.SuggestedBindingRedirects.cache
+F:\C#\Udalennoe zadanie3\obj\Debug\Udalennoe_zadanie3.Form1.resources
+F:\C#\Udalennoe zadanie3\obj\Debug\Udalennoe_zadanie3.Properties.Resources.resources
+F:\C#\Udalennoe zadanie3\obj\Debug\Udalennoe zadanie3.csproj.GenerateResource.cache
+F:\C#\Udalennoe zadanie3\obj\Debug\Udalennoe zadanie3.csproj.CoreCompileInputs.cache
+F:\C#\Udalennoe zadanie3\obj\Debug\Udalennoe zadanie3.exe
+F:\C#\Udalennoe zadanie3\obj\Debug\Udalennoe zadanie3.pdb
