@@ -1,0 +1,11 @@
+U:\WindowsForms,WPF\PracticWinForms_urok_03_Task4\bin\Debug\PracticWinForms_urok_03_Task4.exe.config
+U:\WindowsForms,WPF\PracticWinForms_urok_03_Task4\bin\Debug\PracticWinForms_urok_03_Task4.exe
+U:\WindowsForms,WPF\PracticWinForms_urok_03_Task4\bin\Debug\PracticWinForms_urok_03_Task4.pdb
+U:\WindowsForms,WPF\PracticWinForms_urok_03_Task4\obj\Debug\PracticWinForms_urok_03_Task4.csproj.AssemblyReference.cache
+U:\WindowsForms,WPF\PracticWinForms_urok_03_Task4\obj\Debug\PracticWinForms_urok_03_Task4.csproj.SuggestedBindingRedirects.cache
+U:\WindowsForms,WPF\PracticWinForms_urok_03_Task4\obj\Debug\PracticWinForms_urok_03_Task4.Form1.resources
+U:\WindowsForms,WPF\PracticWinForms_urok_03_Task4\obj\Debug\PracticWinForms_urok_03_Task4.Properties.Resources.resources
+U:\WindowsForms,WPF\PracticWinForms_urok_03_Task4\obj\Debug\PracticWinForms_urok_03_Task4.csproj.GenerateResource.cache
+U:\WindowsForms,WPF\PracticWinForms_urok_03_Task4\obj\Debug\PracticWinForms_urok_03_Task4.csproj.CoreCompileInputs.cache
+U:\WindowsForms,WPF\PracticWinForms_urok_03_Task4\obj\Debug\PracticWinForms_urok_03_Task4.exe
+U:\WindowsForms,WPF\PracticWinForms_urok_03_Task4\obj\Debug\PracticWinForms_urok_03_Task4.pdb
