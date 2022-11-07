@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticWinForms_urok_04_Task1", "PracticWinForms_urok_04_Task1.csproj", "{C853FA2D-0FF9-4958-B776-1E768839947D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C853FA2D-0FF9-4958-B776-1E768839947D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C853FA2D-0FF9-4958-B776-1E768839947D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C853FA2D-0FF9-4958-B776-1E768839947D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C853FA2D-0FF9-4958-B776-1E768839947D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1080BBB1-007D-411B-9A53-B6A550B13B62}
+	EndGlobalSection
+EndGlobal
