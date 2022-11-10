@@ -1,0 +1,11 @@
+F:\C#\DZ-1-1\bin\Debug\DZ-1-1.exe.config
+F:\C#\DZ-1-1\bin\Debug\DZ-1-1.exe
+F:\C#\DZ-1-1\bin\Debug\DZ-1-1.pdb
+F:\C#\DZ-1-1\obj\Debug\DZ-1-1.csproj.AssemblyReference.cache
+F:\C#\DZ-1-1\obj\Debug\DZ-1-1.csproj.SuggestedBindingRedirects.cache
+F:\C#\DZ-1-1\obj\Debug\DZ_1_1.Form1.resources
+F:\C#\DZ-1-1\obj\Debug\DZ_1_1.Properties.Resources.resources
+F:\C#\DZ-1-1\obj\Debug\DZ-1-1.csproj.GenerateResource.cache
+F:\C#\DZ-1-1\obj\Debug\DZ-1-1.csproj.CoreCompileInputs.cache
+F:\C#\DZ-1-1\obj\Debug\DZ-1-1.exe
+F:\C#\DZ-1-1\obj\Debug\DZ-1-1.pdb
