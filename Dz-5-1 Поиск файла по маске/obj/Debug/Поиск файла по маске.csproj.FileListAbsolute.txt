@@ -1,0 +1,12 @@
+F:\C#\Поиск файла по маске\bin\Debug\Поиск файла по маске.exe.config
+F:\C#\Поиск файла по маске\bin\Debug\Поиск файла по маске.exe
+F:\C#\Поиск файла по маске\bin\Debug\Поиск файла по маске.pdb
+F:\C#\Поиск файла по маске\obj\Debug\Поиск файла по маске.csproj.AssemblyReference.cache
+F:\C#\Поиск файла по маске\obj\Debug\Поиск файла по маске.csproj.SuggestedBindingRedirects.cache
+F:\C#\Поиск файла по маске\obj\Debug\Поиск_файла_по_маске.Form1.resources
+F:\C#\Поиск файла по маске\obj\Debug\Поиск_файла_по_маске.Form2.resources
+F:\C#\Поиск файла по маске\obj\Debug\Поиск_файла_по_маске.Properties.Resources.resources
+F:\C#\Поиск файла по маске\obj\Debug\Поиск файла по маске.csproj.GenerateResource.cache
+F:\C#\Поиск файла по маске\obj\Debug\Поиск файла по маске.csproj.CoreCompileInputs.cache
+F:\C#\Поиск файла по маске\obj\Debug\Поиск файла по маске.exe
+F:\C#\Поиск файла по маске\obj\Debug\Поиск файла по маске.pdb

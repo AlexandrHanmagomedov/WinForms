@@ -1,0 +1,12 @@
+F:\C#\Компьютерная фирма\bin\Debug\Компьютерная фирма.exe.config
+F:\C#\Компьютерная фирма\bin\Debug\Компьютерная фирма.exe
+F:\C#\Компьютерная фирма\bin\Debug\Компьютерная фирма.pdb
+F:\C#\Компьютерная фирма\obj\Debug\Компьютерная фирма.csproj.AssemblyReference.cache
+F:\C#\Компьютерная фирма\obj\Debug\Компьютерная фирма.csproj.SuggestedBindingRedirects.cache
+F:\C#\Компьютерная фирма\obj\Debug\Компьютерная_фирма.Form1.resources
+F:\C#\Компьютерная фирма\obj\Debug\Компьютерная_фирма.Form2.resources
+F:\C#\Компьютерная фирма\obj\Debug\Компьютерная_фирма.Properties.Resources.resources
+F:\C#\Компьютерная фирма\obj\Debug\Компьютерная фирма.csproj.GenerateResource.cache
+F:\C#\Компьютерная фирма\obj\Debug\Компьютерная фирма.csproj.CoreCompileInputs.cache
+F:\C#\Компьютерная фирма\obj\Debug\Компьютерная фирма.exe
+F:\C#\Компьютерная фирма\obj\Debug\Компьютерная фирма.pdb
