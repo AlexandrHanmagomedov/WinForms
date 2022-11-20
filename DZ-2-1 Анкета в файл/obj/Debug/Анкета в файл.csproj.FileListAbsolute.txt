@@ -1,0 +1,11 @@
+F:\C#\Анкета в файл\bin\Debug\Анкета в файл.exe.config
+F:\C#\Анкета в файл\bin\Debug\Анкета в файл.exe
+F:\C#\Анкета в файл\bin\Debug\Анкета в файл.pdb
+F:\C#\Анкета в файл\obj\Debug\Анкета в файл.csproj.AssemblyReference.cache
+F:\C#\Анкета в файл\obj\Debug\Анкета в файл.csproj.SuggestedBindingRedirects.cache
+F:\C#\Анкета в файл\obj\Debug\Анкета_в_файл.Form1.resources
+F:\C#\Анкета в файл\obj\Debug\Анкета_в_файл.Properties.Resources.resources
+F:\C#\Анкета в файл\obj\Debug\Анкета в файл.csproj.GenerateResource.cache
+F:\C#\Анкета в файл\obj\Debug\Анкета в файл.csproj.CoreCompileInputs.cache
+F:\C#\Анкета в файл\obj\Debug\Анкета в файл.exe
+F:\C#\Анкета в файл\obj\Debug\Анкета в файл.pdb

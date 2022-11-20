@@ -1,0 +1,11 @@
+F:\C#\День рождения по календарю\bin\Debug\День рождения по календарю.exe.config
+F:\C#\День рождения по календарю\bin\Debug\День рождения по календарю.exe
+F:\C#\День рождения по календарю\bin\Debug\День рождения по календарю.pdb
+F:\C#\День рождения по календарю\obj\Debug\День рождения по календарю.csproj.AssemblyReference.cache
+F:\C#\День рождения по календарю\obj\Debug\День рождения по календарю.csproj.SuggestedBindingRedirects.cache
+F:\C#\День рождения по календарю\obj\Debug\День_рождения_по_календарю.Form1.resources
+F:\C#\День рождения по календарю\obj\Debug\День_рождения_по_календарю.Properties.Resources.resources
+F:\C#\День рождения по календарю\obj\Debug\День рождения по календарю.csproj.GenerateResource.cache
+F:\C#\День рождения по календарю\obj\Debug\День рождения по календарю.csproj.CoreCompileInputs.cache
+F:\C#\День рождения по календарю\obj\Debug\День рождения по календарю.exe
+F:\C#\День рождения по календарю\obj\Debug\День рождения по календарю.pdb
