@@ -1,0 +1,22 @@
+D:\downloads\WinForms-main(1)\WinForms-main\PracticWinForms_urok_04_Task1\bin\Debug\PracticWinForms_urok_04_Task1.exe.config
+D:\downloads\WinForms-main(1)\WinForms-main\PracticWinForms_urok_04_Task1\bin\Debug\PracticWinForms_urok_04_Task1.exe
+D:\downloads\WinForms-main(1)\WinForms-main\PracticWinForms_urok_04_Task1\bin\Debug\PracticWinForms_urok_04_Task1.pdb
+D:\downloads\WinForms-main(1)\WinForms-main\PracticWinForms_urok_04_Task1\obj\Debug\PracticWinForms_urok_04_Task1.csproj.AssemblyReference.cache
+D:\downloads\WinForms-main(1)\WinForms-main\PracticWinForms_urok_04_Task1\obj\Debug\PracticWinForms_urok_04_Task1.csproj.SuggestedBindingRedirects.cache
+D:\downloads\WinForms-main(1)\WinForms-main\PracticWinForms_urok_04_Task1\obj\Debug\PracticWinForms_urok_04_Task1.Form1.resources
+D:\downloads\WinForms-main(1)\WinForms-main\PracticWinForms_urok_04_Task1\obj\Debug\PracticWinForms_urok_04_Task1.Properties.Resources.resources
+D:\downloads\WinForms-main(1)\WinForms-main\PracticWinForms_urok_04_Task1\obj\Debug\PracticWinForms_urok_04_Task1.csproj.GenerateResource.cache
+D:\downloads\WinForms-main(1)\WinForms-main\PracticWinForms_urok_04_Task1\obj\Debug\PracticWinForms_urok_04_Task1.csproj.CoreCompileInputs.cache
+D:\downloads\WinForms-main(1)\WinForms-main\PracticWinForms_urok_04_Task1\obj\Debug\PracticWinForms_urok_04_Task1.exe
+D:\downloads\WinForms-main(1)\WinForms-main\PracticWinForms_urok_04_Task1\obj\Debug\PracticWinForms_urok_04_Task1.pdb
+F:\C#\Text redactor\bin\Debug\PracticWinForms_urok_04_Task1.exe.config
+F:\C#\Text redactor\bin\Debug\PracticWinForms_urok_04_Task1.exe
+F:\C#\Text redactor\bin\Debug\PracticWinForms_urok_04_Task1.pdb
+F:\C#\Text redactor\obj\Debug\PracticWinForms_urok_04_Task1.csproj.AssemblyReference.cache
+F:\C#\Text redactor\obj\Debug\PracticWinForms_urok_04_Task1.csproj.SuggestedBindingRedirects.cache
+F:\C#\Text redactor\obj\Debug\PracticWinForms_urok_04_Task1.Form1.resources
+F:\C#\Text redactor\obj\Debug\PracticWinForms_urok_04_Task1.Properties.Resources.resources
+F:\C#\Text redactor\obj\Debug\PracticWinForms_urok_04_Task1.csproj.GenerateResource.cache
+F:\C#\Text redactor\obj\Debug\PracticWinForms_urok_04_Task1.csproj.CoreCompileInputs.cache
+F:\C#\Text redactor\obj\Debug\PracticWinForms_urok_04_Task1.exe
+F:\C#\Text redactor\obj\Debug\PracticWinForms_urok_04_Task1.pdb

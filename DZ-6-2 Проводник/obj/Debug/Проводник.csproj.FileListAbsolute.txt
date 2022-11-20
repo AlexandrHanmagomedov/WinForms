@@ -1,0 +1,11 @@
+F:\C#\Проводник\bin\Debug\Проводник.exe.config
+F:\C#\Проводник\bin\Debug\Проводник.exe
+F:\C#\Проводник\bin\Debug\Проводник.pdb
+F:\C#\Проводник\obj\Debug\Проводник.csproj.AssemblyReference.cache
+F:\C#\Проводник\obj\Debug\Проводник.csproj.SuggestedBindingRedirects.cache
+F:\C#\Проводник\obj\Debug\Проводник.Form1.resources
+F:\C#\Проводник\obj\Debug\Проводник.Properties.Resources.resources
+F:\C#\Проводник\obj\Debug\Проводник.csproj.GenerateResource.cache
+F:\C#\Проводник\obj\Debug\Проводник.csproj.CoreCompileInputs.cache
+F:\C#\Проводник\obj\Debug\Проводник.exe
+F:\C#\Проводник\obj\Debug\Проводник.pdb
